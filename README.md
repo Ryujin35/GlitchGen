@@ -10,6 +10,6 @@ glitchgen.pyc <your_file_in_common_video_format_here>
 e.g.
 ```
 cd C:\Users\Ryujin35\GlitchGen
-glitchgen.pyc "C:\Users\Ryujin35\Videos\shortvideo.mp4
+glitchgen.pyc "C:\Users\Ryujin35\Videos\shortvideo.mp4"
 ```
 4. Find your uniquely named .gif in the output folder.
