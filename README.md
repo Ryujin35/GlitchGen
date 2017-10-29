@@ -1,5 +1,4 @@
-# VolHacks2017
-Steps to use:
+# GlitchGen Step-by-Step Guide
 1. Download as ZIP.
 2. Extract anywhere.
 3. Open a command line and enter the following:
